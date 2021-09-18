@@ -7,5 +7,5 @@ Int a;
 Int b;
 Int c=a+b;
 Printf("is :%d",c);
-return 0;
+return 0
 }
