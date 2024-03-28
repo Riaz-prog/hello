@@ -1,11 +1,5 @@
-# hello-world
-#just another respirotory
-#include<Stdio.h>
-int main()
-{
-Int a;
-Int b;
-Int c=a+b;
-Printf("is :%d",c);
-return 0;
-}
+#only python 
+
+print(5+9)
+
+output:14
